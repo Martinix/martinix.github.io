@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Youtube Channel Code Samples
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This space is will be dedicated to share the code samples and documenation mentioned in during the training videos.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+You can always contact me on my YouTube Channel by leaving a comment or in Twitter from the link below.
