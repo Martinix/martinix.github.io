@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Youtube Channel Code Samples
-published: true
+published: false
 ---
 
 This space will be dedicated to share the code samples and documenation mentioned in during the training videos.
